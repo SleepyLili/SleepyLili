@@ -1,11 +1,8 @@
 ### Hi, I'm Lili, welcome to my GitHub page.
-I'm a programmer from the Czech republic, currently looking for work.
+I'm a programmer from the Czech republic, currently looking for work. I know Python pretty well, have an interest in functional programming and cybersecurity, and I like to write helpful READMEs and documentation.
 
-I know Python pretty well, have an interest in functional programming and cybersecurity, and I like to write helpful READMEs and documentation.
-
-Most of my repositories also have remotes/mirrors at [git.kawen.site/Lili](https://git.kawen.site/Lili).
-
-Linkedin: https://www.linkedin.com/in/lili-pavelu/
+- Most of my repositories also have remotes/mirrors at [git.kawen.site/Lili](https://git.kawen.site/Lili).
+- Linkedin: https://www.linkedin.com/in/lili-pavelu/
 
 #### My Projects:
 - **[Tlapbot](https://github.com/SleepyLili/tlapbot):** An Owncast add-on/bot that adds channel points and channel point redeems to Owncast. Add more interactions with viewers to your stream, similar to Twitch.
@@ -15,8 +12,4 @@ Linkedin: https://www.linkedin.com/in/lili-pavelu/
 #### My Recent Work:
 - [Tlapbot: 1.1.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.1.0) - The 1.1.0 release of Tlapbot added redeem categories, improved error logging, and made the redeems page prettier.
 - [Tlapbot: 1.0.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.0.0) - The first full release of Tlapbot, with base redeems functionality, documented installation and config, available to Owncast streamers.
-- [Owncast: Webhooks docs update](https://github.com/owncast/owncast.github.io/pull/85) - Updated webhooks documentation documenting new features, adding more information about confusing features, and clarifying some wording in the document.
-
-#### My Sites:
-- (formerly) pikachu.rocks - The site where I used to run a Pleroma instance for two years. Currently empty.
-- tlapbot.pikachu.rocks - My live instance of Tlapbot that I use to test future releases. Only online when streaming.
+- [Owncast: Webhooks docs update](https://github.com/owncast/owncast.github.io/pull/85) - Updated webhooks documentation documenting new features, adding more information about confusing features, and clarifying some wording in the document
