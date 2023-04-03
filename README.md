@@ -10,6 +10,6 @@ I'm a programmer from the Czech republic, currently looking for work. I know Pyt
 - [Pokémon Couture](https://github.com/SleepyLili/pokemon-couture): A simple tracking tool for a Pokémon game that I made when learning Elixir and Phoenix LiveView.
 
 #### My Recent Work:
+- [Tlapbot: 1.2.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.2.0) - The 1.2.0 release of Tlapbot added milestone goals, passive mode, and improved how database entries get initialized and shown.
 - [Tlapbot: 1.1.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.1.0) - The 1.1.0 release of Tlapbot added redeem categories, improved error logging, and made the redeems page prettier.
-- [Tlapbot: 1.0.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.0.0) - The first full release of Tlapbot, with base redeems functionality, documented installation and config, available to Owncast streamers.
 - [Owncast: Webhooks docs update](https://github.com/owncast/owncast.github.io/pull/85) - Updated webhooks documentation documenting new features, adding more information about confusing features, and clarifying some wording in the document
