@@ -1,5 +1,5 @@
 ### Hi, I'm Lili, welcome to my GitHub page.
-I'm a programmer from the Czech republic, currently looking for work. I know Python pretty well, have an interest in functional programming and cybersecurity, and I like to write helpful READMEs and documentation.
+I'm a programmer from the Czech republic. I know Python pretty well, have an interest in functional programming and cybersecurity, and I like to write helpful READMEs and documentation.
 
 - Linkedin: https://www.linkedin.com/in/lili-pavelu/
 
