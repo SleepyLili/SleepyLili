@@ -1,8 +1,6 @@
 ### Hi, I'm Lili, welcome to my GitHub page.
 I'm a programmer from the Czech republic. I know Python pretty well, have an interest in functional programming and cybersecurity, and I like to write helpful READMEs and documentation.
 
-- Linkedin: https://www.linkedin.com/in/lili-pavelu/
-
 #### My Projects:
 - **[Tlapbot](https://github.com/SleepyLili/tlapbot):** An Owncast add-on/bot that adds channel points and channel point redeems to Owncast. Add more interactions with viewers to your stream, similar to Twitch.
 - **[Adaptive game assistant](https://github.com/SleepyLili/adaptive-game-assistant):** A command line utility to help run and manage Cybersecurity Games. Part of my bachelor's thesis project, later improved to be used in PA197 class at MUNI.
