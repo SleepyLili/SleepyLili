@@ -9,7 +9,7 @@ My open-source and free-time projects are also available at [git.kawen.site/lili
 - [Pokémon Couture](https://github.com/SleepyLili/pokemon-couture): A simple tracking tool for a Pokémon game that I made when learning Elixir and Phoenix LiveView.
 
 #### My Recent Work:
-- [Tlapbot: 1.2.1 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.2.1) - The 1.2.1 release of Tlapbot with fixes and additional milestone features to expand 1.2.0.
+- [Tlapbot: 1.2.2 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.2.2) - The 1.2.2 release of Tlapbot for Owncast v0.1.2 compatibility, with milestone improvements and bugfixes.
 - [Tlapbot: 1.2.0 release](https://github.com/SleepyLili/tlapbot/releases/tag/v1.2.0) - The 1.2.0 release of Tlapbot added milestone goals, passive mode, and improved how database entries get initialized and shown.
 - [Owncast: Fix Owncast Avatar URL for discord webhooks](https://github.com/owncast/owncast/pull/2748) - Fixes discord webhooks to display Owncast avatar properly.
 - [Owncast: Webhooks docs update](https://github.com/owncast/owncast.github.io/pull/85) - Updated webhooks documentation documenting new features, adding more information about confusing features, and clarifying some wording in the document
